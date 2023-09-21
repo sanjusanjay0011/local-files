@@ -1,0 +1,7 @@
+{
+  "name": "TaxiFY",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "897110791176",
+    "project_id": "volta-16441",
+    "storage_bucket": "volta-16441.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897110791176:android:632ecc964432bf78056dbd",
+        "android_client_info": {
+          "package_name": "app.singlepointsolutions.volta_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897110791176-52t87qo1lpddkvqqudrurd4915he3658.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTJGny52diYdl0W2eP0iB0Dtfq0ahde2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897110791176-52t87qo1lpddkvqqudrurd4915he3658.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897110791176:android:9d6572f1fbce6b46056dbd",
+        "android_client_info": {
+          "package_name": "com.singlepointsolutions.volta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897110791176-52t87qo1lpddkvqqudrurd4915he3658.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTJGny52diYdl0W2eP0iB0Dtfq0ahde2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897110791176-52t87qo1lpddkvqqudrurd4915he3658.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897110791176:android:5f10d0e2f73e8b29056dbd",
+        "android_client_info": {
+          "package_name": "com.singlepointsolutions.volta_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897110791176-52t87qo1lpddkvqqudrurd4915he3658.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTJGny52diYdl0W2eP0iB0Dtfq0ahde2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897110791176-52t87qo1lpddkvqqudrurd4915he3658.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
